@@ -6,3 +6,4 @@ ecr
 ansible
 webhook
 aws
+ec2
