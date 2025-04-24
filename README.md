@@ -5,3 +5,4 @@ docker
 ecr
 ansible
 webhook
+aws
